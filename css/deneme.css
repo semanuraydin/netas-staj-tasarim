@@ -1,0 +1,89 @@
+#header
+{
+    max-width: 85%;
+    height: 50px;
+    background-color: black;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.govde
+{
+    max-width: 85%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 568px;
+}
+#baslik
+{
+    margin:54px 0px;
+    font-family: "Mark W01 Medium";
+    color: black;
+    margin-left: 0%;
+}
+.ContryCode
+{
+    width:200px;
+    height: 200px;
+    border-style: solid;
+    
+}
+.MobileNumber
+{
+    width:200px;
+    height: 200px;
+    border-style: solid;
+}
+#mobile {
+    border:solid 1px #707070;
+}
+
+#buton
+{
+    background-color: #FDCC08;
+    border-color: #FDCC08;
+    border-radius: 0%;
+    color:black;
+    text-transform: uppercase;
+    font-family: "Mark W01 Medium";
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: bold;
+    height: 40px;
+    width: 40%;
+}
+#btndiv
+{
+    margin-top: 30px;
+}
+#row
+{
+    margin-left: 0%;
+}
+#footerr
+{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+#list
+{
+    background-color: black;
+    color: #11a0a9;
+    padding: 0%;
+    padding-left: 5px;
+}
+#labell
+{
+    color: #11a0a9;
+    max-width: 200px;;
+    font-family: "Mark W01 Medium";
+    font-size: 50px;
+}
+#col
+{
+    color:white;
+    margin-top:20px;
+}

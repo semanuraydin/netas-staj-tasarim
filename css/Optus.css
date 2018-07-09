@@ -1,0 +1,101 @@
+#baslik
+{
+    color: #FDCC08;
+    font-weight: bold;
+}
+#navbr
+{
+    background-color: black;
+}
+#lnk
+{
+    color:grey;
+    width: 140px;
+    height: 16px;
+    font-family: Mark Pro;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+#dv
+{
+    float: right;
+}
+#tabs
+{
+    border-bottom: solid 2px #e5e5e5;
+    border-left:0ch;
+    border-right: 0ch;
+    border-top: 0ch;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#lii
+{
+    background-color: black;
+    font-weight: bold;
+    color:grey;
+}
+
+.color-grey {
+    color:grey !important;
+}
+
+.color-grey.active {
+    color:white !important;
+    background-color: black;
+}
+.nav-tabs .nav-link.active  {
+    background-color: #000;
+    border:0;
+}
+
+#h
+{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+#a
+{
+    background-color: white;
+    font-weight: bold;
+    color:grey;
+}
+#a:focus
+{
+    background-color: white;
+    font-weight: bold;
+    color:black;
+    border-bottom:solid 4px #ff6e7e;
+}
+#list
+{
+    border-bottom: solid 2px #e5e5e5;
+    border-left:0ch;
+    border-right: 0ch;
+    border-top: 0ch;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#b
+{
+    border-bottom: solid 2px black;
+    border-left:0ch;
+    border-right: 0ch;
+    border-top: 0ch;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-weight: bold;
+}
+#c
+{
+    font-weight: bold;
+    border: 0ch;
+    border-bottom: solid 2px #e5e5e5;
+    color:#006280;
+}
